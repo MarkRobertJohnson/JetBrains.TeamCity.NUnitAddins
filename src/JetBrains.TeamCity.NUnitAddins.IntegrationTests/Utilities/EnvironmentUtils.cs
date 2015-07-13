@@ -9,18 +9,7 @@ namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
     {
         public static void Prepare(string nUnitVersion)
         {
-            CopyDirectory(PathsUtils.NUnitConsolePath, PathsUtils.NUnitConsoleBinPath);
-            var doc = new XDocument();
-            var addinsElement = new XElement("Addins");
-            addinsElement.Add(new XElement("Directory", "addins"));
-            addinsElement.Add(new XElement("Directory", Path.Combine(PathsUtils.GetBinPathByVersion(nUnitVersion), "JetBrains.TeamCity.NUnitAddins.dll")));
-            doc.Add(addinsElement);
-            var addinsConfig = Path.Combine(PathsUtils.NUnitConsoleBinPath, "nunit.engine.addins");
-            using (var writer = new StreamWriter(addinsConfig))
-            {
-                doc.Save(writer);
-                writer.Flush();
-            }
+            CopyDirectory(PathsUtils.GetLibPathByVersion(nUnitVersion), PathsUtils.GetBinPathByVersion(nUnitVersion));
         }
 
         private static int CopyDirectory(string source, string desination)

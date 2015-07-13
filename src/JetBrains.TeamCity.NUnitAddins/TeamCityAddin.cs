@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace JetBrains.TeamCity.NUnitAddins
+﻿namespace JetBrains.TeamCity.NUnitAddins
 {
     using NUnit.Core.Extensibility;
 
@@ -9,7 +7,7 @@ namespace JetBrains.TeamCity.NUnitAddins
     {
         public bool Install(IExtensionHost host)
         {
-            Debugger.Launch();
+            // Debugger.Launch();
             // var nunitVersion = typeof(IExtensionHost).Assembly.GetName().Version;
             var eventListeners = host.GetExtensionPoint("EventListeners");
             eventListeners.Install(new TeamCityEventListener());

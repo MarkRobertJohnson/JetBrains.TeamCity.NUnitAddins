@@ -4,4 +4,3 @@ C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAd
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins.IntegrationTests\obj\Debug\JetBrains.TeamCity.NUnitAddins.IntegrationTests.pdb
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\JetBrains.TeamCity.NUnitAddins.IntegrationTests.dll
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\JetBrains.TeamCity.NUnitAddins.IntegrationTests.pdb
-C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins.IntegrationTests\obj\Debug\JetBrains.TeamCity.NUnitAddins.IntegrationTests.csprojResolveAssemblyReference.cache

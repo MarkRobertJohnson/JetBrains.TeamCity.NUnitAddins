@@ -26,33 +26,22 @@ namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
             }
         }
 
-        public static string NUnitConsolePath
+        public static string LibPath
         {
             get
             {
-                return Path.GetFullPath(Path.Combine(SolutionPath, "lib\\NUnit-3.0.0\\bin"));
-            }
-        }
-
-        public static string NUnitConsoleBinPath
-        {
-            get
-            {
-                return Path.Combine(BinPath, "NUnitConsole");
-            }
-        }
-
-        public static string NUnitConsoleExeFileName
-        {
-            get
-            {
-                return Path.Combine(NUnitConsoleBinPath, "nunit-console.exe");
+                return Path.GetFullPath(Path.Combine(SolutionPath, "lib"));
             }
         }
 
         public static string GetBinPathByVersion(string nUnitVersion)
         {
             return Path.Combine(BinPath, nUnitVersion);
+        }
+
+        public static string GetLibPathByVersion(string nUnitVersion)
+        {
+            return Path.Combine(Path.Combine(LibPath, nUnitVersion), "bin");
         }
     }
 }

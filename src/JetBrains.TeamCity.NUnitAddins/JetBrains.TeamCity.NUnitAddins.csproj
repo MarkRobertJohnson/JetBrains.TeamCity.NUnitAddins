@@ -21,7 +21,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\bin\Debug\NUnit-$(NUnitVersion)\</OutputPath>
+    <OutputPath>..\..\bin\Debug\NUnit-$(NUnitVersion)\addins</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -29,14 +29,14 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\bin\Release\NUnit-$(NUnitVersion)\</OutputPath>
+    <OutputPath>..\..\bin\Release\NUnit-$(NUnitVersion)\addins</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="nunit.core.interfaces">
-      <HintPath>..\..\lib\NUnit-$(NUnitVersion)\v2.0\nunit.core.interfaces.dll</HintPath>
+      <HintPath>..\..\lib\NUnit-$(NUnitVersion)\bin\lib\nunit.core.interfaces.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

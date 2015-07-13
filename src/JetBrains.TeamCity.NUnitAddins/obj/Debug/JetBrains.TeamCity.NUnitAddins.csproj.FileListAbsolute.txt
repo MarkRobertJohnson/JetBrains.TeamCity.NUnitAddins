@@ -13,6 +13,9 @@ C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrain
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrains.TeamCity.NUnitAddins.pdb
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\JetBrains.TeamCity.NUnitAddins.dll
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\JetBrains.TeamCity.NUnitAddins.pdb
-C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins\obj\Debug\JetBrains.TeamCity.NUnitAddins.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\addins\JetBrains.TeamCity.NUnitAddins.dll
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\addins\JetBrains.TeamCity.NUnitAddins.pdb
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\addins\JetBrains.TeamCity.NUnitAddins.dll
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\addins\JetBrains.TeamCity.NUnitAddins.pdb
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins\obj\Debug\JetBrains.TeamCity.NUnitAddins.dll
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins\obj\Debug\JetBrains.TeamCity.NUnitAddins.pdb

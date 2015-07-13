@@ -6,6 +6,10 @@ C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrain
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrains.TeamCity.NUnitAddins.Mocks.pdb
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\JetBrains.TeamCity.NUnitAddins.Mocks.dll
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\JetBrains.TeamCity.NUnitAddins.Mocks.pdb
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\Tests\JetBrains.TeamCity.NUnitAddins.Mocks.dll
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\Tests\JetBrains.TeamCity.NUnitAddins.Mocks.pdb
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\Tests\JetBrains.TeamCity.NUnitAddins.Mocks.dll
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.4\Tests\JetBrains.TeamCity.NUnitAddins.Mocks.pdb
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins.Mocks\obj\Debug\JetBrains.TeamCity.NUnitAddins.Mocks.csprojResolveAssemblyReference.cache
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins.Mocks\obj\Debug\JetBrains.TeamCity.NUnitAddins.Mocks.dll
 C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\src\JetBrains.TeamCity.NUnitAddins.Mocks\obj\Debug\JetBrains.TeamCity.NUnitAddins.Mocks.pdb
