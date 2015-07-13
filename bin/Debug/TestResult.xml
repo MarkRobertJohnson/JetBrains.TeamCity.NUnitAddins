@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" start-time="2015-07-13 14:53:48Z" end-time="2015-07-13 14:53:48Z" duration="0.070948">
+  <environment nunit-version="3.0.5610.33198" clr-version="4.0.30319.0" os-version="Microsoft Windows NT 6.3.9600.0" platform="Win32NT" cwd="C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug" machine-name="UNIT-728" user="Nikolay.Pianikov" user-domain="LABS" culture="ru-RU" uiculture="en-GB" os-architecture="x64" />
+  <test-suite type="Assembly" id="1-1002" name="C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrains.TeamCity.NUnitAddins.Mocks.dll" fullname="C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrains.TeamCity.NUnitAddins.Mocks.dll" runstate="Runnable" testcasecount="1" result="Passed" duration="0.035451" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="_PID" value="17684" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="Namespace" id="1-1003" name="JetBrains" fullname="JetBrains" runstate="Runnable" testcasecount="1" result="Passed" duration="0.023456" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="Namespace" id="1-1004" name="TeamCity" fullname="JetBrains.TeamCity" runstate="Runnable" testcasecount="1" result="Passed" duration="0.023210" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="Namespace" id="1-1005" name="NUnitAddins" fullname="JetBrains.TeamCity.NUnitAddins" runstate="Runnable" testcasecount="1" result="Passed" duration="0.023004" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <test-suite type="Namespace" id="1-1006" name="Mocks" fullname="JetBrains.TeamCity.NUnitAddins.Mocks" runstate="Runnable" testcasecount="1" result="Passed" duration="0.022798" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <test-suite type="TestFixture" id="1-1000" name="UnitTest1" fullname="JetBrains.TeamCity.NUnitAddins.Mocks.UnitTest1" runstate="Runnable" testcasecount="1" result="Passed" duration="0.021583" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <test-case id="1-1001" name="TestMethod" fullname="JetBrains.TeamCity.NUnitAddins.Mocks.UnitTest1.TestMethod" runstate="Runnable" result="Passed" duration="0.013133" asserts="0" />
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

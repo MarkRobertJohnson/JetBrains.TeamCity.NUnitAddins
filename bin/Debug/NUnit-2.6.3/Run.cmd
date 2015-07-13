@@ -1,0 +1,1 @@
+C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnitConsole\nunit-console.exe --work=C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3 JetBrains.TeamCity.NUnitAddins.Mocks.dll

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Addins>
+  <Directory>addins</Directory>
+  <Directory>C:\Projects\GitHub\JetBrains.TeamCity.NUnitAddins\bin\Debug\NUnit-2.6.3\JetBrains.TeamCity.NUnitAddins.dll</Directory>
+</Addins>

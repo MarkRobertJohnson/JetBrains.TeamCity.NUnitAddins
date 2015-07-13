@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.TeamCity.NUnitAddins", "JetBrains.TeamCity.NUnitAddins\JetBrains.TeamCity.NUnitAddins.csproj", "{D45E7583-A939-4638-BD08-570E4745EB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.TeamCity.NUnitAddins.IntegrationTests", "JetBrains.TeamCity.NUnitAddins.IntegrationTests\JetBrains.TeamCity.NUnitAddins.IntegrationTests.csproj", "{A30DDEDA-CF4D-4BAC-8D21-5B8FDB617469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.TeamCity.NUnitAddins.Mocks", "JetBrains.TeamCity.NUnitAddins.Mocks\JetBrains.TeamCity.NUnitAddins.Mocks.csproj", "{89BE7291-54AA-4343-ABF0-64EC53669C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45E7583-A939-4638-BD08-570E4745EB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E7583-A939-4638-BD08-570E4745EB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E7583-A939-4638-BD08-570E4745EB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E7583-A939-4638-BD08-570E4745EB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30DDEDA-CF4D-4BAC-8D21-5B8FDB617469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30DDEDA-CF4D-4BAC-8D21-5B8FDB617469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30DDEDA-CF4D-4BAC-8D21-5B8FDB617469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30DDEDA-CF4D-4BAC-8D21-5B8FDB617469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BE7291-54AA-4343-ABF0-64EC53669C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BE7291-54AA-4343-ABF0-64EC53669C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BE7291-54AA-4343-ABF0-64EC53669C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BE7291-54AA-4343-ABF0-64EC53669C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
