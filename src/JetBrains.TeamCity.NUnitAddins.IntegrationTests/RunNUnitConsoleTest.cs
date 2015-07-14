@@ -1,6 +1,7 @@
 ﻿namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests
 {
     using System.Collections.Generic;
+
     using Utilities;
     using NUnit.Framework;
 

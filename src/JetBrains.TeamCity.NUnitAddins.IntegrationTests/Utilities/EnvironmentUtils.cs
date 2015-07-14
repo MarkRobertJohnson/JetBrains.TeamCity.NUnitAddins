@@ -1,10 +1,10 @@
-﻿using System.Xml.Linq;
-
-namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
+﻿namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
 {
     using System.Diagnostics;
-    using System.IO;
 
+    /// <summary>
+    /// The environment utils.
+    /// </summary>
     internal class EnvironmentUtils
     {
         public static void Prepare(string nUnitVersion)

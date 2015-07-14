@@ -1,8 +1,8 @@
-﻿using System;
-using System.IO;
-
-namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
+﻿namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
 {
+    using System;
+    using System.IO;
+
     internal class PathsUtils
     {
         public static string SolutionPath

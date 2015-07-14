@@ -1,9 +1,8 @@
-﻿using System.Diagnostics;
-using System.IO;
-using System.Text;
-
-namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
+﻿namespace JetBrains.TeamCity.NUnitAddins.IntegrationTests.Utilities
 {
+    using System.Diagnostics;
+    using System.IO;
+
     internal class TestUtils
     {
         public static int RunTests(string nUnitVersion)
